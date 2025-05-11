@@ -2,22 +2,22 @@
   "name": "screep-cyx",
   "description": "screep练习代码",
   "version": "0.1.0",
-  "homepage": "https://github.com/Z640/screep-cyx",
+  "homepage": "https://github.com/yanxin152133/screep-cyx",
   "author": {
     "name": "cyx",
     "email": "yanxin152133@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Z640/screep-cyx.git"
+    "url": "ghttps://github.com/yanxin152133/screep-cyx.git"
   },
   "bugs": {
-    "url": "https://github.com/Z640/screep-cyx/issues"
+    "url": "https://github.com/yanxin152133/screep-cyx/issuess"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/Z640/screep-cyx/blob/master/LICENSE-MIT"
+      "url": "https://github.com/yanxin152133/screep-cyx?tab=MIT-1-ov-file#MIT-1-ov-file"
     }
   ],
   "main": "lib/screep-cyx",
